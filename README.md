@@ -1,5 +1,5 @@
 # ads-1-engenharia-2025-2039751
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Pedro Lucas Silva Alves
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
  As abordagens para o desenvolvimento de software ajudam na criação e no design de um software, desde a sua concepção até a fase final de testes, com o objetivo de facilitar a correção de falhas e a solução de problemas, garantindo o cumprimento de todos os requisitos estabelecidos. A criação de um produto sem uma metodologia bem definida torna o processo mais desafiador, gerando dificuldades, atrasos, erros e resultados insatisfatórios, variando conforme as necessidades de cada equipe.
