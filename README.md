@@ -25,11 +25,11 @@ As principais cerimônias são: Refinamento do backlog do produto, etapa de aná
 O Kanban é uma metodologia visual de gestão de tarefas, representada por cartões, com o objetivo de organizar o fluxo de trabalho e melhorar sua eficiência. É utilizada por equipes de desenvolvimento ágil de software, em ambientes de manufatura e produção, além de ser aplicada em tarefas pessoais ou em espaços corporativos.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Comunicação, para garantir interações claras entre a equipe; simplicidade, mantendo o código e design o mais simples possível; feedback, com testes constantes e interações com o cliente para ajustes rápidos; coragem, para fazer mudanças quando necessário; respeito, entre todos os membros da equipe; e iterações contínuas, com entregas frequentes para obter feedback constante do cliente. Esses princípios buscam promover um desenvolvimento ágil, eficiente e alinhado às necessidades do cliente.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+As ferramentas de gerenciamento de projetos são essenciais para organizar, monitorar e otimizar o progresso de um projeto
 
 ### 🎮 Jira / Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
