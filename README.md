@@ -29,7 +29,8 @@ Comunicação, para garantir interações claras entre a equipe; simplicidade, m
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-As ferramentas de gerenciamento de projetos são essenciais para organizar, monitorar e otimizar o progresso de um projeto
+Essas ferramentas têm como objetivo gerenciar e hospedar códigos-fonte para várias aplicações. Elas são utilizadas para apoiar as equipes no planejamento de projetos e proporcionar maior visibilidade das diferentes ideias.
+
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+As ferramentas são excelentes para promover a colaboração e a discussão em equipe, possibilitando comentários e anexos para coordenar e atribuir responsabilidades. O Jira é frequentemente preferido em ambientes ágeis, enquanto o Trello é comumente escolhido em contextos onde uma simples divisão de tarefas pode melhorar o desempenho.
